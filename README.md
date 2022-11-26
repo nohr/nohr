@@ -6,7 +6,7 @@
 
 - ⚡️ I'm a front end developer currently building web apps for artists and startups via [Nabla Ltd](https://nabla.ooo/).
 - 🌱 Currently learning React Native, Tailwind CSS, and GLSL.
-- 🔬 Currently collaborating on an exciting marketplace app, built around the current social and technological ecosystems in Lagos and other cities in Nigeria.
+- 🔬 Currently collaborating on an exciting marketplace app built around the current social and technological ecosystems in Lagos and other cities in Nigeria.
 - 🤔 Looking for help with development in Web3.
 - 🎯 2022 Goal: Complete the game functionality for [Gear and Loading](https://github.com/nohr/gear).
 - 🔭 2023 Goal: Work on projects that inspire creativity and collaboration.  
