@@ -8,8 +8,7 @@
 - 🌱 Currently learning React Native, Tailwind CSS, and GLSL.
 - 🔬 Currently collaborating on an exciting marketplace app built around the current social and technological ecosystems in Lagos and other cities in Nigeria.
 - 🤔 Looking for help with pmndrs/[use-cannon](https://github.com/pmndrs/use-cannon).
-- 🎯 2022 Goal: Complete the game functionality for [Gear and Loading](https://github.com/nohr/gear).
-- 🔭 2023 Goal: Work on projects that inspire creativity and collaboration.  
+- 🔭 2023 Goal: Work on more web 3D projects.  
 - 🎓 NYU Tisch Class of '22 - Interactive Media Arts
 - 💬 Ask me about my code journey!
 ---
