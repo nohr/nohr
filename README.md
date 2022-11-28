@@ -2,6 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/aite)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:aite@nabla.ooo)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-follow%20me-%23FA2F48?style=flat-square)](https://music.apple.com/profile/kawaiite)
+[![CodeSandbox](https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@nohr&color=black&style=flat-square&logo=codesandbox)](https://codesandbox.io/u/nohr)
 
 - ⚡️ I'm a front end developer currently building web apps for artists and startups via [Nabla Ltd](https://nabla.ooo/).
 - 🌱 Currently learning React Native, Tailwind CSS, and GLSL.
