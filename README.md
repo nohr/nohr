@@ -5,11 +5,10 @@
 [![CodeSandbox](https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@nohr&color=black&style=flat-square&logo=codesandbox)](https://codesandbox.io/u/nohr)
 
 - ⚡️ I'm a front end developer currently building web apps for artists and startups via [Nabla Ltd](https://nabla.ooo/).
-- 🌱 Currently learning React Native, Tailwind CSS, and GLSL.
 - 🔬 Currently collaborating on an exciting marketplace app built around the current social and technological ecosystems in Lagos and other cities in Nigeria.
 - 🤔 Looking for help with pmndrs/[use-cannon](https://github.com/pmndrs/use-cannon).
 - 🔭 2023 Goal: Work on more web 3D projects.  
-- 🎓 NYU Tisch Class of '22 - Interactive Media Arts
+- 🎓 NYU Tisch - Interactive Media Arts BFA
 - 💬 Ask me about my code journey!
 ---
 ## 📊Stats
@@ -26,7 +25,7 @@
 
 ### Tools I'm learning now
 
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title='TypeScript' height="25px" width="auto" /><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title='Next.js' height="25px" width="auto" />
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title='TypeScript' height="25px" width="auto" /><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title='Next.js' height="25px" width="auto" /><img src="https://assets.stickpng.com/images/62a74de8223343fbc2207d01.png" title='React Native' height="25px" width="auto" /><img src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" title='OpenGL' height="25px" width="auto" />
 ---
 ### Facts about me
 - 🎮 I grew up with a love for physical computing and gaming. My favorite modding device was Sony's PSP slim.
