@@ -25,10 +25,8 @@
 
 ### Tools I'm learning now
 
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title='TypeScript' height="25px" width="auto" />
-<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title='Next.js' height="25px" width="auto" />
-<img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" title='React Native' height="25px" width="auto" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" title='OpenGL' height="25px" width="auto" />
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title='TypeScript' height="25px" width="auto" /><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title='Next.js' height="25px" width="auto" /><img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" title='React Native' height="25px" width="auto" /><img src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" title='OpenGL' height="25px" width="auto" />
+
 ---
 ### Facts about me
 - 🎮 I grew up with a love for physical computing and gaming. My favorite modding device was Sony's PSP slim.
