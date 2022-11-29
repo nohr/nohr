@@ -10,13 +10,8 @@
 - 🔭 2023 Goal: Work on more web 3D projects.  
 - 🎓 NYU Tisch - Interactive Media Arts BFA
 - 💬 Ask me about my code journey!
----
-## 📊Stats
-[![stats](https://github-readme-stats.vercel.app/api?username=nohr&hide=issues&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 
 ---
-
 ### Tools I use often
 
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title='React' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" title='Sass' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title='JavaScript' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" title='NPM' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title='Firebase' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" title='Google Cloud' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title='VSCode' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" title='Jira' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" title='Bash' height="25px" width="auto" /><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title='Git' height="25px" width="auto" />
@@ -26,6 +21,11 @@
 ### Tools I'm learning now
 
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title='TypeScript' height="25px" width="auto" /><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title='Next.js' height="25px" width="auto" /><img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" title='React Native' height="25px" width="auto" /><img src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" title='OpenGL' height="25px" width="auto" />
+
+---
+## 📊Stats
+[![stats](https://github-readme-stats.vercel.app/api?username=nohr&hide=issues&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 ---
 ### Facts about me
