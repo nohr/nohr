@@ -7,7 +7,7 @@
 - ⚡️ I'm a front end developer currently building web apps for artists and startups via [Paredol](https://nabla.ooo/).
 - 🔬 Currently collaborating on an exciting marketplace app built around the current social and technological ecosystems in Lagos and other cities in Nigeria.
 - 🤔 Looking for help with pmndrs/[use-cannon](https://github.com/pmndrs/use-cannon).
-- 🔭 2023 Goal: Work on more web 3D projects.  
+- 🔭 2023 Goal: Develop new ways to use my strengths to service others.  
 - 🎓 NYU Tisch - Interactive Media Arts BFA
 - 💬 Ask me about my code journey!
 
