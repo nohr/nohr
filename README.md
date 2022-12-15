@@ -19,7 +19,7 @@
 
 ### Tools I'm learning now
 
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title='Python' height="25px" width="auto" /><img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" title='React Native' height="25px" width="auto" /><img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" title='React Native' height="25px" width="auto" /><img src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" title='OpenGL' height="25px" width="auto" />
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title='Python' height="25px" width="auto" /><img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" title='React Native' height="25px" width="auto" /><img src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" title='OpenGL' height="25px" width="auto" />
 
 ---
 ## 📊Stats
