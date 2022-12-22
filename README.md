@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Aite Aigbe
+### Hey there 👋, I'm Aite
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/aite)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:aite@paredol.com)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-follow%20me-%23FA2F48?style=flat-square)](https://music.apple.com/profile/kawaiite)
