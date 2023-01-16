@@ -9,7 +9,6 @@
 - 🤔 Looking for help with pmndrs/[use-cannon](https://github.com/pmndrs/use-cannon).
 - 🔭 2023 Goal: Develop new ways to use my strengths to service others.  
 - 🎓 NYU Tisch - Interactive Media Arts BFA
-- 💬 Ask me about my code journey!
 
 ---
 ### Tools I use often
