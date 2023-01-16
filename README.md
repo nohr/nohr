@@ -30,4 +30,4 @@
 ### Facts about me
 - 🎮 I grew up with a love for physical computing and gaming. My favorite modding device was Sony's PSP slim.
 - 🎶 I'm really into generative art and creating music with artificial intelligence.
-- 🌍 I've always had a passion for the internet and its democratizing powers.
+- 🌍 I've always had a passion for the internet and its democratizing potential.
