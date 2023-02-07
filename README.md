@@ -4,9 +4,12 @@
 [![Spotify](https://img.shields.io/static/v1?labelColor=0f0f0f&label=Spotify&message=follow&color=1DB954&style=flat-square&logo=spotify)](https://open.spotify.com/user/03jfaarxiaoyajzuhsugml6pw?si=KU2RoCZLQyeoGygYsHcUDQ)
 [![CodeSandbox](https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@nohr&color=black&style=flat-square&logo=codesandbox)](https://codesandbox.io/u/nohr)
 
-- ⚡️ I'm a front end developer currently building web apps for artists and startups via [Paredol](https://nabla.ooo/).
+- ⚡️ Front-end developer currently building web apps for artists and startups via [Paredol](https://nabla.ooo/).
+- ❗️ Currently looking for a full-time dev opportunity.
 - 🔬 Currently collaborating on an exciting marketplace app built around the current social and technological ecosystems in Lagos and other cities in Nigeria.
 - 🔭 2023 Goal: Develop new ways to use my strengths to service others.  
+- 🎮 Grew up with a love for physical computing and gaming. My favorite modding device was Sony's PSP slim.
+- 🎶 I'm really into generative art and creating music with artificial intelligence.
 - 🎓 NYU Tisch - Interactive Media Arts BFA
 
 ---
@@ -19,9 +22,3 @@
 ## 📊Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=nohr&hide=issues&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-
----
-### Facts about me
-- 🎮 I grew up with a love for physical computing and gaming. My favorite modding device was Sony's PSP slim.
-- 🎶 I'm really into generative art and creating music with artificial intelligence.
-- 🌍 I've always had a passion for the internet and its democratizing potential.
