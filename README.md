@@ -4,7 +4,7 @@
 [![Spotify](https://img.shields.io/static/v1?labelColor=0f0f0f&label=Spotify&message=follow&color=1DB954&style=flat-square&logo=spotify)](https://open.spotify.com/user/03jfaarxiaoyajzuhsugml6pw?si=KU2RoCZLQyeoGygYsHcUDQ)
 [![CodeSandbox](https://img.shields.io/static/v1?labelColor=black&label=CodeSandbox&message=@nohr&color=black&style=flat-square&logo=codesandbox)](https://codesandbox.io/u/nohr)
 
-- ⚡️ Front-end developer currently building web apps for artists and startups via [Paredol](https://nabla.ooo/).
+- ⚡️ Front-end developer currently building web apps for clients via [Paredol](https://nabla.ooo/).
 - ❗️ Currently looking for a full-time dev opportunity.
 - 🔬 Currently collaborating on an exciting marketplace app built around the current social and technological ecosystems in Lagos and other cities in Nigeria.
 - 🔭 2023 Goal: Develop new ways to use my strengths to service others.  
