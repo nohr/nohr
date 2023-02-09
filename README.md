@@ -10,7 +10,7 @@
 - 🔭 2023 Goal: Develop new ways to use my strengths to service others.  
 - 🎮 Grew up with a love for physical computing and gaming. My favorite modding device was Sony's PSP slim.
 - 🎶 I'm really into generative art and creating music with artificial intelligence.
-- 🎓 NYU Tisch - Interactive Media Arts BFA
+- 🎓 NYU Tisch - Interactive Media Arts
 
 ---
 ### Tools I'm passionate about
