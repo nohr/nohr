@@ -1,4 +1,4 @@
-Front-end developer currently building web apps for clients via [Paredol](https://paredol.com/).
+Front-end developer currently looking for full-time work.
 
 <p align="center">
   <a href="https://skillicons.dev">
