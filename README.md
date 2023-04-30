@@ -1,5 +1,3 @@
-Front-end developer currently looking for full-time work.
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwindcss,ts,next,astro,nodejs,python,threejs,redis,vscode,docker,figma,blender,ableton&theme=light" />
